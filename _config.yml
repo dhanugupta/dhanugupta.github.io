@@ -17,7 +17,7 @@ baseurl: "/"
 title: Dhanu Gupta
 
 # Short description of your site
-description: Dev loop experience
+description: Software, technology, product and leadership Insights
 
 # --- Navigation bar options --- #
 
@@ -41,7 +41,7 @@ author:
   email: "dhanu.gupta@gmail.com"
   github: dhanugupta    # eg. daattali
   twitter: dhanugupta   # eg. daattali
-  linkedin: dhanugupta
+  linkedin: in/dhanugupta
   og_image: "/img/og_dgupta.png"
 
 # Select which links to show in the footer

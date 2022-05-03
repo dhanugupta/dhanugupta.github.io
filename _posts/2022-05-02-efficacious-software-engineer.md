@@ -1,6 +1,6 @@
 ---
 layout: post
-title: efficacious software engineer
+title: Efficacious software engineer
 thumbnail: "/img/og-axiomatic.png"
 description: An Efficacious software engineer
 ---

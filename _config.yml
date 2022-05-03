@@ -28,10 +28,10 @@ avatar: "/img/og_dgupta.png"
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   #Datasets: "datasets"
-  Publications: "publications"
- 
+  #Publications: "publications"
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -147,7 +147,7 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 

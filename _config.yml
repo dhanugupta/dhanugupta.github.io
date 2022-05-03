@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://dhanugupta.github.io"
-baseurl: ""
+baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -41,6 +41,7 @@ author:
   email: "dhanu.gupta@gmail.com"
   github: dhanugupta    # eg. daattali
   twitter: dhanugupta   # eg. daattali
+  linkedin: dhanugupta
   og_image: "/img/og_dgupta.png"
 
 # Select which links to show in the footer
@@ -50,7 +51,7 @@ footer-links-active:
   email: true
   twitter: true
   github: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

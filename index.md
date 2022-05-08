@@ -6,6 +6,7 @@ subtitle: Devloop
 
 ## <img src="../img/news.png" height="50px"> News
 - [Firefox turns 100!!](https://techcrunch.com/2022/05/03/a-diminished-firefox-turns-100/) in May 2022
+- [Spring4Shell: Zero-Day Vulnerability Demo](https://github.com/dhanugupta/log4j-vuln-demo) in Dec 2021
 
 
 <div class="posts-list">

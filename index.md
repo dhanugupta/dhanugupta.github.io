@@ -7,10 +7,10 @@ subtitle: Devloop
 ## <img src="../img/news.png" height="50px"> News
 - [Firefox turns 100!!](https://techcrunch.com/2022/05/03/a-diminished-firefox-turns-100/) in May 2022
 - [Spring4Shell: Zero-Day Vulnerability Demo](https://github.com/dhanugupta/log4j-vuln-demo) in Dec 2021
-
+- [CSP: Iframe Sandbox](https://github.com/dhanugupta/iframe-csp) in May 2020
 
 <div class="posts-list">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:2 %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
